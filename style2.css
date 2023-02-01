@@ -1,0 +1,27 @@
+* {
+    border-color: solid green;
+}
+
+.form {
+    display: flex;
+    border: 2px solid black;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 175px;
+    width: 475px;
+    height: 325px;
+}
+
+
+.container-box {
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+}
+
+.login {
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: rgb(235, 161, 4);
+}
